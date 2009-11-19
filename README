@@ -1,0 +1,32 @@
+IndexAwesome - Make Apache look awesome!
+
+--
+
+Apache file index pages look like garbage. Your options are either a) create a basic file listing HTML page that looks nicer, or b) deal with it.
+
+The problem with this is: if those file change often, you're going to need it to update often. Really, if all you're looking for is something that looks a little nicer than the default, creating a whole HTML page for it isn't the best solution.
+
+IndexAwesome uses .htaccess files and a sprinkle of CSS to make your Apache index pages look awesome. It's totally customizable, easy to install and the only requirement is you run Apache.
+
+--
+
+Installation:
+
+	1. Download IndexAwesome from GitHub - http://github.com/mocha/IndexAwesome
+	2. Unzip IndexAwesome into a folder.
+	3. Name that folder indexawesome
+	4. Upload the indexawesome folder in to the root directory of your web server.
+		Note: If you host multiple domains on your server, you'll need to upload one copy per domain. It needs to be in the root directory for the domain.
+	5. Move the file awesome.htaccess to the root directory as well, outside of the indexawesome folder.
+	6. Rename awesome.htaccess to simply .htaccess
+	7. Enjoy!
+
+--
+
+If you have any suggestions, comments or questions, please send me an email (mocha0range at gmail dot com) or hit me up on twitter (@mocha0range).
+
+--
+
+Copyright (c) 2009, Patrick Deuley, All rights reserved.
+
+This software is released under the terms of the New BSD License. http://www.opensource.org/licenses/bsd-license.php
