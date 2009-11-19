@@ -1,0 +1,136 @@
+IndexStyleSheet "/indexawesome/style.css" 
+
+Options +Indexes
+
+IndexOptions +FancyIndexing
+IndexOptions +FoldersFirst
+IndexOptions +XHTML
+IndexOptions +HTMLTable
+IndexOptions +SuppressRules
+IndexOptions +IconsAreLinks
+IndexOptions +VersionSort
+
+DefaultIcon /indexawesome/icons/unknown.png
+
+AddIcon /indexawesome/icons/folder.png ^^DIRECTORY^^
+AddIcon /indexawesome/backup.gif *~
+
+AddIcon (IMG,/indexawesome/icons/bmp.png) .bmp .BMP
+AddIcon (IMG,/indexawesome/icons/dng.png) .dng .DNG
+AddIcon (IMG,/indexawesome/icons/eps.png) .eps .EPS
+AddIcon (IMG,/indexawesome/icons/fax.png) .fax .FAX
+AddIcon (IMG,/indexawesome/icons/fpx.png) .fpx .FPX
+AddIcon (IMG,/indexawesome/icons/gif.png) .gif .GIF
+AddIcon (IMG,/indexawesome/icons/icns.png) .icns .ICNS
+AddIcon (IMG,/indexawesome/icons/ico.png) .ico .ICO
+AddIcon (IMG,/indexawesome/icons/jp2.png) .jp2 .JP2
+AddIcon (IMG,/indexawesome/icons/jpeg.png) .jpg .JPG .jpeg .JPEG
+AddIcon (IMG,/indexawesome/icons/pdf.png) .pdf .PDF
+AddIcon (IMG,/indexawesome/icons/pict.png) .pict .PICT
+AddIcon (IMG,/indexawesome/icons/png.png).png .png
+AddIcon (IMG,/indexawesome/icons/pntg.png) .pntg .PNTG
+AddIcon (IMG,/indexawesome/icons/ps.png) .ps .PS
+AddIcon (IMG,/indexawesome/icons/psd.png) .psd .PSD
+AddIcon (IMG,/indexawesome/icons/qtif.png) .qtif .QTIF
+AddIcon (IMG,/indexawesome/icons/radiance.png) .rad .RAD
+AddIcon (IMG,/indexawesome/icons/raw.png) .raw .RAW
+AddIcon (IMG,/indexawesome/icons/sgi.png) .sgi .SGI
+AddIcon (IMG,/indexawesome/icons/tga.png) .tga .TGA
+AddIcon (IMG,/indexawesome/icons/tiff.png) .tif .TIF .tiff .TIFF
+AddIcon (IMG,/indexawesome/icons/xbm.png) .xbm .XBM
+
+AddIcon (IMG,/indexawesome/icons/as.png) .as .AS
+AddIcon (IMG,/indexawesome/icons/asp.png) .asp .ASP
+AddIcon (IMG,/indexawesome/icons/cfm.png) .cfm .CFM
+AddIcon (IMG,/indexawesome/icons/cgi.png) .cgi .CGI
+AddIcon (IMG,/indexawesome/icons/css.png) .css .CSS
+AddIcon (IMG,/indexawesome/icons/fcgi.png) .fcgi .FCGI
+AddIcon (IMG,/indexawesome/icons/html.png) .html .HTML .htm .HTM
+AddIcon (IMG,/indexawesome/icons/j.png) .j .J
+AddIcon (IMG,/indexawesome/icons/js.png) .js .JS
+AddIcon (IMG,/indexawesome/icons/lasso.png) .lasso .LASSO
+AddIcon (IMG,/indexawesome/icons/perl.png) .pl .PL .pm .PM
+AddIcon (IMG,/indexawesome/icons/php.png) .php .PHP
+AddIcon (IMG,/indexawesome/icons/python.png) .py .PY
+AddIcon (IMG,/indexawesome/icons/ruby.png) .rb .RB .rbx .RBX .rhtml .RHTML .ruby .RUBY
+AddIcon (IMG,/indexawesome/icons/sql.png) .sql .SQL
+AddIcon (IMG,/indexawesome/icons/tpl.png) .tpl .TPL
+AddIcon (IMG,/indexawesome/icons/txt.png) .txt .TXT
+AddIcon (IMG,/indexawesome/icons/xhtml.png) .xhtml .XHTML
+AddIcon (IMG,/indexawesome/icons/xml.png) .xml .XML
+
+AddIcon (IMG,/indexawesome/icons/zip.png) .zip .ZIP
+AddIcon (IMG,/indexawesome/icons/rar.png) .rar .RAR
+AddIcon (IMG,/indexawesome/icons/tgz.png) .tgz .TGZ .gz .GZ .tbz .TBZ .tlz .TLZ .txz .TXZ
+AddIcon (IMG,/indexawesome/icons/7zip.png) .7z .7Z
+AddIcon (IMG,/indexawesome/icons/sit.png) .sit .SIT
+AddIcon (IMG,/indexawesome/icons/sitx.png) .sitx .SITX
+AddIcon (IMG,/indexawesome/icons/bzip.png) .bzip .BZIP
+AddIcon (IMG,/indexawesome/icons/cab.png) .cab .CAB
+AddIcon (IMG,/indexawesome/icons/sea.png) .sea .SEA
+AddIcon (IMG,/indexawesome/icons/pkg.png) .pkg .PKG
+AddIcon (IMG,/indexawesome/icons/cpgz.png) .cpgz .CPGZ
+
+AddIcon (IMG,/indexawesome/icons/dmg.png) .dmg .DMG
+AddIcon (IMG,/indexawesome/icons/iso.png) .iso .ISO
+AddIcon (IMG,/indexawesome/icons/nrg.png) .nrg .NRG
+AddIcon (IMG,/indexawesome/icons/mdf.png) .mdf .MDF
+AddIcon (IMG,/indexawesome/icons/cue.png) .cue .CUE
+AddIcon (IMG,/indexawesome/icons/img.png) .img .IMG
+
+AddIcon (IMG,/indexawesome/icons/ai.png) .ai .AI
+AddIcon (IMG,/indexawesome/icons/indd.png) .indd .INDD
+AddIcon (IMG,/indexawesome/icons/inx.png) .inx .INX
+
+AddIcon (IMG,/indexawesome/icons/mp3.png) .mp3 .MP3
+AddIcon (IMG,/indexawesome/icons/ogg.png) .ogg .OGG
+AddIcon (IMG,/indexawesome/icons/aiff.png) .aiff .AIFF
+AddIcon (IMG,/indexawesome/icons/wma.png) .wma .WMA
+AddIcon (IMG,/indexawesome/icons/aac.png) .aac .AAC
+AddIcon (IMG,/indexawesome/icons/flac.png) .flac .FLAC
+AddIcon (IMG,/indexawesome/icons/wav.png) .wav .WAV
+AddIcon (IMG,/indexawesome/icons/midi.png) .midi .MIDI
+
+AddIcon (IMG,/indexawesome/icons/doc.png) .doc .DOC
+AddIcon (IMG,/indexawesome/icons/rtf.png) .rtf .RTF
+AddIcon (IMG,/indexawesome/icons/docx.png) .docx .DOCX
+AddIcon (IMG,/indexawesome/icons/ascii.png) .ascii .ASCII
+AddIcon (IMG,/indexawesome/icons/faq.png) .faq .FAQ
+AddIcon (IMG,/indexawesome/icons/latex.png) .latex .LATEX
+AddIcon (IMG,/indexawesome/icons/log.png) .log .LOG
+AddIcon (IMG,/indexawesome/icons/man.png) .man .MAN
+AddIcon (IMG,/indexawesome/icons/me.png) .me .ME
+AddIcon (IMG,/indexawesome/icons/nfo.png) .nfo .NFO
+AddIcon (IMG,/indexawesome/icons/rtfd.png) .rtfd .RTFD
+AddIcon (IMG,/indexawesome/icons/text.png) .text .TEXT
+AddIcon (IMG,/indexawesome/icons/wpd.png) .wpd .WPD
+
+AddIcon (IMG,/indexawesome/icons/amv.png) .amv .AMV
+AddIcon (IMG,/indexawesome/icons/asx.png) .asx .ASX
+AddIcon (IMG,/indexawesome/icons/avb.png) .avb .AVB
+AddIcon (IMG,/indexawesome/icons/avi.png) .avi .AVI
+AddIcon (IMG,/indexawesome/icons/bsf.png) .bsf .BSF
+AddIcon (IMG,/indexawesome/icons/d2v.png) .d2v .D2V
+AddIcon (IMG,/indexawesome/icons/divx.png) .divx .DIVX
+AddIcon (IMG,/indexawesome/icons/dvx.png) .dvx .DVX
+AddIcon (IMG,/indexawesome/icons/flv.png) .flv .FLV
+AddIcon (IMG,/indexawesome/icons/lsf.png) .lsf .LSF
+AddIcon (IMG,/indexawesome/icons/lsx.png) .lsx .LSX
+AddIcon (IMG,/indexawesome/icons/m2v.png) .m2v .M2V
+AddIcon (IMG,/indexawesome/icons/mp2.png) .mp2 .MP2
+AddIcon (IMG,/indexawesome/icons/mkv.png) .mkv .MKV
+AddIcon (IMG,/indexawesome/icons/mov.png) .mov .MOV
+AddIcon (IMG,/indexawesome/icons/mpg.png) .mpg .MPG
+AddIcon (IMG,/indexawesome/icons/mts.png) .mts .MTS
+AddIcon (IMG,/indexawesome/icons/ogm.png) .ogm .OGM
+AddIcon (IMG,/indexawesome/icons/ogv.png) .ogv .OGV
+AddIcon (IMG,/indexawesome/icons/qt.png) .qt .QT
+AddIcon (IMG,/indexawesome/icons/rm.png) .rm .RM
+AddIcon (IMG,/indexawesome/icons/rv.png) .rv .RV
+AddIcon (IMG,/indexawesome/icons/swf.png) .swf .SWF
+AddIcon (IMG,/indexawesome/icons/wmv.png) .wmv .WMV
+AddIcon (IMG,/indexawesome/icons/wmd.png) .wmd .WMD
+AddIcon (IMG,/indexawesome/icons/wm.png) .wm .WM
+AddIcon (IMG,/indexawesome/icons/xvid.png) .xvid .XVID
+AddIcon (IMG,/indexawesome/icons/yuv.png) .yuv .YUV
+AddIcon (IMG,/indexawesome/icons/srt.png) .srt .SRT
